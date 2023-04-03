@@ -13,7 +13,7 @@
     return result;
 }
 
-Console.WriteLine($"Imput a three-digit number: ");
+Console.WriteLine($"Введите трёхзначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int newNumber = SecontDigit(num);
 Console.WriteLine(newNumber);
