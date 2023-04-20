@@ -37,11 +37,11 @@ Console.WriteLine(GetSum(numA, numB));
     }
         return result;
 }
-Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+
 int result = GetSum(num);
 Console.WriteLine($"Сумма цифр в числе {num} равна {result}");
 */
+
 
 
 //Задача 3. Напишите программу, которая задаёт массив 
