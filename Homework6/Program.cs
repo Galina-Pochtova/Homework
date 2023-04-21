@@ -34,3 +34,4 @@
 // Console.WriteLine("Введите значение b2: ");
 // double k2 = Convert.ToInt32(Console.ReadLine());
 // LineCrossing(b1, k1, b2, k2);
+
